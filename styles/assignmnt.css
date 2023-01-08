@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    margin-top: 50px;
+    margin-left: 70px;
+}.header{
+ position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+}
+.you-blv{
+    font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+color: #151414;
+margin-bottom: 24px;
+
+}
+.btn{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    
+
+
+}.sub-title{
+    margin-bottom: 20px;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+}
+/* group2  */
+.person{
+margin-top: 150px;    
+margin-left: 100px;
+    
+}
+.second{
+display: flex;
+gap: 40px;
+width: 416px;
+height: 400px;
+left: 845px;
+top: 1134px;
+
+}
+
+.title{
+     
+position: absolute;
+width: 416px;
+height: 400px;
+left: 845px;
+top: 1134px;
+
+
+}
+.my-failur{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+    
+
+}
+.smallp{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+margin-bottom: 30px;
+
+}
+.list{
+    font-weight: 800;
+font-size: 20px;
+line-height: 26px;
+ color: #444343;
+}
+
+/* skill section */
+.skills-container{
+    position: absolute;
+    display: flex;
+    gap: 24px; 
+margin-left: 150px;
+}
+
+.third{
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 246px;
+    top: 1789px;
+    
+
+}
+.mypln{
+    margin-bottom: 35px;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+   text-align: center;
+     
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+}
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+}
